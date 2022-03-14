@@ -3,8 +3,8 @@ title: ¿Cómo hacer un dashboard en R?
 date: 2020-08-17 12:10:00 -0500
 categories: [R, Tutorial]
 tags: [tablero, dashboard, shiny, covid, dataviz, r]
-imageg: 
-  src: /posts/2020-08-17-como-hacer-un-dashboard-en-r/pexels-energepiccom-159888.jpg
+image: 
+  src: https://raw.githubusercontent.com/camartinezbu/blog-images/main/posts/2020-08-17-como-hacer-un-dashboard-en-r/pexels-energepiccom-159888.jpg
   width: 640
   height: 480
 excerpt: Tableau y Power BI no son las únicas formas de hacer un tablero interactivo.
