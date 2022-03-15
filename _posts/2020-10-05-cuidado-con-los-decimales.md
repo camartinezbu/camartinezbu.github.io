@@ -3,8 +3,7 @@ title: ¡Cuidado con los decimales!
 date: 2020-10-05 16:00:00 -0500
 categories: [Computacion, Matematicas]
 tags: [float, numeros, python, integer, decimal]
-image: 
-  src: https://raw.githubusercontent.com/camartinezbu/blog-images/main/posts/2020-10-05-cuidado-con-los-decimales/thumbnail-calculator.jpg
+image: https://raw.githubusercontent.com/camartinezbu/blog-images/main/posts/2020-10-05-cuidado-con-los-decimales/thumbnail-calculator.jpg
 excerpt: Los computadores nunca se equivocan en matemáticas... ¿verdad?
 math: true
 ---
