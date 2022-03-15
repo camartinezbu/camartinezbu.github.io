@@ -21,12 +21,12 @@ timezone: America/Bogota
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Camilo Martínez                          # the main title
+title: camartinezbu                          # the main title
 
 tagline: Un blog sobre ciencia de datos y programación   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Un blog sobre ciencia de datos y programación, que cubre temas como R, Python, SQL, etc.
+  Un blog en el que comparto tutoriales y proyectos relacionados con ciencia de datos, en lenguajes como R, Python y SQL.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'http://www.camartinezbu.com/'
@@ -40,7 +40,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Camilo Martínez
+  name: Camilo Martínez Burgos
   email: camartinezbu.contacto@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
