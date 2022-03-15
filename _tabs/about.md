@@ -3,9 +3,9 @@ title: Sobre mi
 icon: fas fa-info-circle
 order: 4
 ---
-## ¡Hola!
+## ¿Quién es Camilo Martínez Burgos?
 
-Mi nombre es Camilo Martínez y soy un apasionado por la ciencia de datos y la programación. Hace algunos años empecé mi camino en este mundo con R y el tidyverse, para facilitar mi trabajo de construir reportes sobre cifras de criminalidad en Bogotá. Desde ese momento, he aprendido de git y github, python, postgresql, docker, entre otras herramientas.
+Soy un apasionado por la ciencia de datos y la programación. Hace algunos años empecé mi camino en este mundo con R y el tidyverse, para facilitar mi trabajo de construir reportes sobre cifras de criminalidad en Bogotá. Desde ese momento, he aprendido de git y github, python, postgresql, docker, entre otras herramientas.
 
 Considero que los datos son clave para entender el mundo y para mejorar la toma de decisiones, tanto de personas como de organizaciones. Por esta razón decidí abrir este blog. Quero que más personas puedan aplicar herramientas de análisis de datos en su vida cotidiana o laboral y, si se puede, quitar el tabú sobre la dificultad de la ciencia de datos a partir de explicaciones simples e intuitivas.
 
