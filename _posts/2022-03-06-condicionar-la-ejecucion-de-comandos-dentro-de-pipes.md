@@ -5,7 +5,7 @@ categories: [R, Tutorial]
 tags: [r, pipe, condicional]
 image: 
   src: https://raw.githubusercontent.com/camartinezbu/blog-images/main/posts/2022-03-06-condicionar-la-ejecucion-de-comandos-dentro-de-pipes/hero.png
-excerpt: ¿Cómo condicionar la ejecución de código a condiciones?
+excerpt: Cuando termines de leer vas a querer reescribir tu código
 ---
 
 Buena parte del tiempo que pasamos trabajando con el `tidyverse` lo hacemos usando el operador pipe (`%>%`). Este operador nos permite fácilmente incluir la salida de una función como argumento de la siguiente, y de esta manera encadenar comandos para realizar modificaciones complejas a una base de datos con una gran legibilidad.
