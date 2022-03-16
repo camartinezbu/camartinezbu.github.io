@@ -1,6 +1,6 @@
 # Personal blog
 
-THis is the main repository for my personal blog at [camartinezbu.com](https://www.camartinezbu.com), where I share tutorials and explanations on various data science related topics, in languages such as R, Python and SQL
+This is the main repository for my personal blog at [camartinezbu.com](https://www.camartinezbu.com), where I share tutorials and explanations on various data science related topics, in languages such as R, Python and SQL.
 
 ## Acknowledgement
 
