@@ -3,7 +3,8 @@ title: Condicionar la ejecución de comandos dentro de pipes
 date: 2022-03-06 10:30:00 -0500
 categories: [R, Tutorial]
 tags: [r, pipe, condicional]
-image: https://raw.githubusercontent.com/camartinezbu/blog-images/main/posts/2022-03-06-condicionar-la-ejecucion-de-comandos-dentro-de-pipes/hero.png
+image: 
+  path: https://raw.githubusercontent.com/camartinezbu/blog-images/main/posts/2022-03-06-condicionar-la-ejecucion-de-comandos-dentro-de-pipes/hero.png
 excerpt: Cuando termines de leer vas a querer reescribir tu código
 ---
 

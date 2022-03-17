@@ -3,7 +3,8 @@ title: Estructuras de datos básicas en python
 date: 2021-01-24 10:45:00 -0500
 categories: [Python, Tutorial]
 tags: [listas, tuplas, diccionarios, sets, python, arrays]
-image: https://raw.githubusercontent.com/camartinezbu/blog-images/main/posts/2021-01-24-estructuras-de-datos-basicas-en-python/pexels-pixabay-159519.jpg
+image: 
+  path: https://raw.githubusercontent.com/camartinezbu/blog-images/main/posts/2021-01-24-estructuras-de-datos-basicas-en-python/pexels-pixabay-159519.jpg
 excerpt: Hablemos de listas, tuplas, diccionarios y conjuntos.
 ---
 
