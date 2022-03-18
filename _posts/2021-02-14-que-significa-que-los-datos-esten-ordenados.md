@@ -74,6 +74,6 @@ En todo caso, tener una manera estándar de almacenamiento de datos que tenga cl
 
 ## Bonus: ¿Y en Código?
 
-A modo de acompañamiento a este post, y para que conozcas algunas de las funciones útiles para organizar las bases de datos según lo visto anteriormente, escribí un script de R y un script de Python para pasar de la Tabla 1 a las tablas de los ejemplos de bases de datos desordenadas y viceversa. Puedes acceder a los scripts y al archivo `.csv` en el [siguiente link](https://github.com/camartinezbu/Ejemplos-blog/tree/main/2021-02-14-que-significa-que-los-datos-esten-ordenados).
+A modo de acompañamiento a este post, y para que conozcas algunas de las funciones útiles para organizar las bases de datos según lo visto anteriormente, escribí un script de R y un script de Python para pasar de la Tabla 1 a las tablas de los ejemplos de bases de datos desordenadas y viceversa. Puedes acceder a los scripts y al archivo `.csv` en el [siguiente link](https://github.com/camartinezbu/blog-examples/tree/main/2021-02-14-que-significa-que-los-datos-esten-ordenados).
 
 Espero que te haya inspirado conocer este concepto. Te invito a revisar el trabajo de Hadley Wickham, sobre el que me basé para escribir este post y que puedes encontrar en [este link](https://vita.had.co.nz/papers/tidy-data.pdf). Es una lectura corta pero amena, que te ayudará a profundizar sobre las aplicaciones del Tidy Data.
