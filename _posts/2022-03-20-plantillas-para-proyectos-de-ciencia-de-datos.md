@@ -14,21 +14,21 @@ Hoy te quiero presentar cookiecutter, una herramienta para el manejo de plantill
 
 ## Cookiecutter
 
-[Cookiecutter]([https://cookiecutter.readthedocs.io/en/latest/README.html](https://cookiecutter.readthedocs.io/en/latest/README.html)) es una herramienta que funciona en la línea de comandos de tu computador que te permite crear proyectos basados en plantillas, llamadas *cookiecutters*.
+[Cookiecutter](https://cookiecutter.readthedocs.io/en/latest/README.html) es una herramienta que funciona en la línea de comandos de tu computador que te permite crear proyectos basados en plantillas, llamadas *cookiecutters*.
 
 Esta herramienta es multiplataforma - funciona en Windows, MacOS y Linux - y no tiene una restricción sobre los lenguajes para los que puedes crear plantillas.
 
-> Si bien no es necesario saber python para usar cookiecutter, es algo útil cuando quieras diseñar tu propia plantilla y trabajar con [hooks]([https://cookiecutter.readthedocs.io/en/latest/advanced/hooks.html?highlight=hook#writing-hooks](https://cookiecutter.readthedocs.io/en/latest/advanced/hooks.html?highlight=hook#writing-hooks)).
+> Si bien no es necesario saber python para usar cookiecutter, es algo útil cuando quieras diseñar tu propia plantilla y trabajar con [hooks](https://cookiecutter.readthedocs.io/en/latest/advanced/hooks.html?highlight=hook#writing-hooks).
 {: .prompt-info }
 
 ## Instalación
 
-Para poder trabajar con Cookicutter debes tener Python instalado en tu computador. Puedes hacerlo directamente desde la [página oficial de Python]([https://www.python.org/downloads/](https://www.python.org/downloads/)) o usando [Conda]([https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)).
+Para poder trabajar con Cookicutter debes tener Python instalado en tu computador. Puedes hacerlo directamente desde la [página oficial de Python](https://www.python.org/downloads/) o usando [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html).
 
 > Si no tienes mucha experiencia trabajando con Python, te sugiero hacerlo con Conda.
 {: .prompt-tip }
 
-Luego tienes que hacer un ajuste al *path* de tu computador, procedimiento que va a cambiar dependiendo del sistema operativo que uses. Te recomiendo seguir las instrucciones en la [documentación de Cookicutter]([https://cookiecutter.readthedocs.io/en/latest/installation.html](https://cookiecutter.readthedocs.io/en/latest/installation.html)).
+Luego tienes que hacer un ajuste al *path* de tu computador, procedimiento que va a cambiar dependiendo del sistema operativo que uses. Te recomiendo seguir las instrucciones en la [documentación de Cookicutter](https://cookiecutter.readthedocs.io/en/latest/installation.html).
 
 Una vez hecho lo anterior, en la línea de comandos de tu computador vas a ejecutar alguno de los siguientes comandos, dependiendo la instalación que seguiste:
 
