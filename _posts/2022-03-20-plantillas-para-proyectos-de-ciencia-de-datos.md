@@ -61,14 +61,23 @@ Es decir, si quisiera usar la plantilla que escribí para Python escribiría:
 cookiecutter https://github.com/camartinezbu/cookiecutter-python-project
 ```
 
-Si Cookiecutter quedó instalado correctamente la línea de comandos te pedirá algunos datos con los que generar tu proyecto, como se muestra a continuación:
+Si Cookiecutter quedó instalado correctamente, la línea de comandos te pedirá algunos datos con los que generar tu proyecto. Para la plantilla de Python estos son:
+
+- `project_name`: El nombre del proyecto que vas a crear.
+- `project_slug`: El apodo para tu proyecto. Por defecto incluye una versión en minúsculas separada por guión bajo del nombre del proyecto, pero lo puedes reemplazar por un apodo de tu elección.
+- `project_author_name`: Tu nombre o el de la organización que elabora el proyecto.
+- `project_description`: Una descripción breve del objetivo del proyecto.
+- `project_open_source_license`: La elección de licencia que vas a usar en el proyecto. La plantilla incluye las opciones de no usar licencia, la licencia MIT y la licencia BSD-3-Clause.
+- `python_version`: La versión de python para usar en el proyecto. Por defecto se incluye la versión 3.10.
+- `project_packages`: Una selección de algunos paquetes básicos de ciencia de datos. Si seleccionas `Basic` se incluirán numpy, pandas, matplotlib y seaborn entre otros. Si seleccionas `Machine Learning` se tendrán en cuenta además scikit-learn y tensorflow.
 
 ![Screenshot Terminal](/posts/2022-03-20-plantillas-para-proyectos-de-ciencia-de-datos/Terminal-screenshot.jpg)
 
-Al completarse la operación, tendrás una plantilla de proyecto con carpetas para los datos y su documentación (`data` y `reference`), extracción, transformación y carga (`etl`), análisis (`analysis`), visualización (`viz`) y reportes (`reports`). Adicionalmente, la plantilla generará automáticamente un archivo `README.md`, uno con una licencia (`LICENSE`) e iniciará un repositorio de git.
+Al completarse la operación, tendrás una plantilla de proyecto con carpetas para los datos y su documentación (`data` y `references`), extracción, transformación y carga (`etl`), análisis (`analysis`), visualización (`viz`) y reportes (`reports`).
+
+Adicionalmente, la plantilla generará automáticamente un archivo `README.md` con la información que diligenciaste en la terminal, otro con la licencia escogida (`LICENSE`) e iniciará un repositorio de git.
 
 ![Screenshot Finder](/posts/2022-03-20-plantillas-para-proyectos-de-ciencia-de-datos/Finder-screenshot.jpg)
-
 
 ## Conclusión
 
