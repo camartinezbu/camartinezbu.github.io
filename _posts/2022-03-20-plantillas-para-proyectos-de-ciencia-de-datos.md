@@ -49,7 +49,7 @@ Para crear tu primer proyecto con Cookicutter te invito a trabajar con alguna de
 
 ## Crea tu proyecto
 
-Abre la línea de comandos de tu computador - `Command Shell en Windows` o `Terminal` en MacOS y Linux - y ubícate en la carpeta que quieres crear tu proyecto. Una vez allí, ejecuta el siguiente comando:
+Abre la línea de comandos de tu computador - `Command Shell` en Windows o `Terminal` en MacOS y Linux - y ubícate en la carpeta que quieres crear tu proyecto. Una vez allí, ejecuta el siguiente comando:
 
 ```bash
 cookiecutter <URL de GIthub>
@@ -61,12 +61,14 @@ Es decir, si quisiera usar la plantilla que escribí para Python escribiría:
 cookiecutter https://github.com/camartinezbu/cookiecutter-python-project
 ```
 
-Si Cookiecutter quedó instalado correctamente, la línea de comandos te pedirá algunos datos con los que generar tu proyecto. Inserta la información solicitada y la plantilla se encargará del resto.
+Si Cookiecutter quedó instalado correctamente la línea de comandos te pedirá algunos datos con los que generar tu proyecto, como se muestra a continuación:
 
-Al completarse la operación, para cualquiera de las dos plantillas que escribí, tendrás una plantilla de proyecto con carpetas para los datos y su documentación (`data` y `reference`), extracción, transformación y carga (`etl`), análisis (`analysis`), visualización (`viz`) y reportes (`reports`). Adicionalmente, la plantilla generará automáticamente un archivo `README.md` e iniciará un repositorio de git.
+![Screenshot Terminal](/posts/2022-03-20-plantillas-para-proyectos-de-ciencia-de-datos/Terminal-screenshot.jpg)
 
-> Si quieres más detalles sobre la estructura de mis plantillas, revisa su descripción en el repositorio respectivo.
-{: .prompt-info }
+Al completarse la operación, tendrás una plantilla de proyecto con carpetas para los datos y su documentación (`data` y `reference`), extracción, transformación y carga (`etl`), análisis (`analysis`), visualización (`viz`) y reportes (`reports`). Adicionalmente, la plantilla generará automáticamente un archivo `README.md`, uno con una licencia (`LICENSE`) e iniciará un repositorio de git.
+
+![Screenshot Finder](/posts/2022-03-20-plantillas-para-proyectos-de-ciencia-de-datos/Finder-screenshot.jpg)
+
 
 ## Conclusión
 
