@@ -72,12 +72,14 @@ Si Cookiecutter quedó instalado correctamente, la línea de comandos te pedirá
 - `project_packages`: Una selección de algunos paquetes básicos de ciencia de datos. Si seleccionas `Basic` se incluirán numpy, pandas, matplotlib y seaborn entre otros. Si seleccionas `Machine Learning` se tendrán en cuenta además scikit-learn y tensorflow.
 
 ![Screenshot Terminal](/posts/2022-03-20-plantillas-para-proyectos-de-ciencia-de-datos/Terminal-screenshot.jpg)
+*Figura 1. Captura de pantalla de la Terminal al crear tu proyecto.*
 
 Al completarse la operación, tendrás una plantilla de proyecto con carpetas para los datos y su documentación (`data` y `references`), extracción, transformación y carga (`etl`), análisis (`analysis`), visualización (`viz`) y reportes (`reports`).
 
 Adicionalmente, la plantilla generará automáticamente un archivo `README.md` con la información que diligenciaste en la terminal, otro con la licencia escogida (`LICENSE`) e iniciará un repositorio de git.
 
 ![Screenshot Finder](/posts/2022-03-20-plantillas-para-proyectos-de-ciencia-de-datos/Finder-screenshot.jpg)
+*Figura 2. Captura de pantalla de la carpeta creada con la plantilla.*
 
 ## Conclusión
 
