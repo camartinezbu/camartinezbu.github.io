@@ -68,7 +68,7 @@ Si Cookiecutter quedó instalado correctamente, la línea de comandos te pedirá
 - `project_description`: Una descripción breve del objetivo del proyecto.
 - `project_open_source_license`: La elección de licencia que vas a usar en el proyecto. La plantilla incluye las opciones de no usar licencia, la licencia MIT y la licencia BSD-3-Clause.
 - `python_version`: La versión de python para usar en el proyecto. Por defecto se incluye la versión 3.10.
-- `project_packages`: Una selección de algunos paquetes básicos de ciencia de datos. Si seleccionas `Basic` se incluirán numpy, pandas, matplotlib y seaborn entre otros. Si seleccionas `Machine Learning` se tendrán en cuenta además scikit-learn y tensorflow.
+- `project_packages`: Una selección de algunos paquetes básicos de ciencia de datos. Si seleccionas `Basic` se incluirán numpy, pandas, matplotlib y seaborn entre otros. Si seleccionas `Scikit-learn` o `Tensorflow` se instalará además el paquete corresponidnete.
 
 > La plantilla de R te pedirá los mismos datos, excepto `python_version` y `project_packages`.
 {: .prompt-info }
@@ -78,7 +78,20 @@ Luego de introducir los datos anteriores, tu terminal debería verse similar a e
 ![Screenshot Terminal](/posts/2022-03-20-plantillas-para-proyectos-de-ciencia-de-datos/Terminal-screenshot.jpg)
 *Figura 1. Captura de pantalla de la Terminal al crear tu proyecto.*
 
-Como resultado, tendrás una plantilla de proyecto con carpetas para los datos y su documentación (`data` y `references`), extracción, transformación y carga (`etl`), análisis (`analysis`), visualización (`viz`) y reportes (`reports`). Adicionalmente, la plantilla generará automáticamente un archivo `README.md` con la información que diligenciaste en la terminal, otro con la licencia escogida (`LICENSE`) e iniciará un repositorio de git.
+Como resultado, tendrás una plantilla de proyecto con carpetas para:
+
+- Datos y su documentación: `data` y `references`
+- Cuadernos de Jupyter: `notebooks`
+- Reportes: `reports`
+- Salidas gráficas: `figures`
+- El código para el proyecto, cargado como un paquete de python: `src`
+
+Adicionalmente, la plantilla generará automáticamente:
+
+- un archivo `README.md` con la información que diligenciaste en la terminal
+- un archivo con la licencia escogida: `LICENSE`
+- un archivo `environment.yml` para crear un ambiente de conda
+- un repositorio de git
 
 ![Screenshot Finder](/posts/2022-03-20-plantillas-para-proyectos-de-ciencia-de-datos/Finder-screenshot.jpg)
 *Figura 2. Captura de pantalla de la carpeta creada con la plantilla.*
