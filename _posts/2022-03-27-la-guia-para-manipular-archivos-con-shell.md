@@ -22,7 +22,8 @@ Dependiendo del sistema operativo vas a encontrar distitos tipos de shell:
 - Para versiones de MacOS desde Catalina, el shell es Z Shell (o Zsh).
 - Para Windows, el shell predeterminado es PowerShell.
 
-Info: [Windows Susbsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about) te permite ejecutar de manera nativa comandos de bash en windows. Puedes encontrar más información sobre su instalación [aqui](https://docs.microsoft.com/en-us/windows/wsl/install).
+> [Windows Susbsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about) te permite ejecutar de manera nativa comandos de bash en windows. Puedes encontrar más información sobre su instalación [aqui](https://docs.microsoft.com/en-us/windows/wsl/install).
+{: .prompt-info}
 
 En este tutorial me voy a enfocar específicamente en algunos comandos básicos de Bash y Zsh, cuyo uso es muy parecido. Todos los comandos que se mencionan abajo se van a ejecutar desde la Terminal, por lo que deberías abrirla antes de empezar.
 
@@ -56,7 +57,8 @@ Notarás que hay algo nuevo en este comando: las dos letras precedidas por un gu
 
 En este caso, la bandera `l` hace que la salida del comando sea en una lista y la bandera `h` a que los pesos de los archivos sean más fáciles de leer.
 
-info: Como te puedes dar cuenta, `-lh` no hace referencia a una sóla bandera sino a dos separadas. Sin embargo, el shell permite abreviar varias banderas usando un sólo guión como te lo mostré anteriormente. En estricto sentido, podrías escribir `ls -l -h` y el comando funcionaría igual.
+> Como te puedes dar cuenta, `-lh` no hace referencia a una sóla bandera sino a dos separadas. Sin embargo, el shell permite abreviar varias banderas usando un sólo guión como te lo mostré anteriormente. En estricto sentido, podrías escribir `ls -l -h` y el comando funcionaría igual.
+{: prompt-info}
 
 ## Crear carpetas y archivos
 
@@ -66,7 +68,8 @@ Para crear una nueva carpeta en la ubicación deseada, ejecutas el comando `mkdi
 
 También puedes crear un archivo usando el comando `touch`, seguido del nombre y extensión que quieras. Es decir, si quieres crear un archivo de texto plano, debes ejecutar el comando `touch mi_archivo.txt`.
 
-Tip: Intenta crear una carpeta y un archivo dentro, y luego usar el comando `ls -lh` para ver si tuviste éxito.
+> Intenta crear una carpeta y un archivo dentro, y luego usar el comando `ls -lh` para ver si tuviste éxito.
+{: prompt-tip}
 
 ## Borrar carpetas y archivos
 
