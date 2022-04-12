@@ -2,7 +2,7 @@
 title: Sobre mi
 icon: fas fa-info-circle
 order: 4
-image: https://raw.githubusercontent.com/camartinezbu/blog-images/main/common/avatar.jpg
+image: https://raw.githubusercontent.com/camartinezbu/blog-images/main/common/avatar.png
 ---
 ## ¿Quién es Camilo Martínez Burgos?
 

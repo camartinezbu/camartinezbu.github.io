@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn: 'https://raw.githubusercontent.com/camartinezbu/blog-images/main'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/common/avatar.jpg'
+avatar: '/common/avatar.png'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
