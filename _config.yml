@@ -21,12 +21,12 @@ timezone: America/Bogota
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: camartinezbu                          # the main title
+title: Camilo Martínez Burgos                          # the main title
 
-tagline: Un blog sobre ciencia de datos y programación   # it will display as the sub-title
+tagline: Ciencia de datos y programación   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Un blog en el que comparto tutoriales y proyectos relacionados con ciencia de datos, en lenguajes como R, Python y SQL.
+  Tutoriales y proyectos relacionados con ciencia de datos, usando lenguajes como R y Python.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'http://www.camartinezbu.com/'
