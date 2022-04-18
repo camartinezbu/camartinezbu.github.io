@@ -71,7 +71,8 @@ jupyter lab
 
 Para trabajar con algún lenguaje distinto a Python - que es la opción por defecto al instalar Anaconda - se debe instalar el kernel correspondiente. En el caso de R, tenemos que instalar el `IRKernel` desde la terminal de comandos.
 
-> **Nota:** Este procedimiento no funciona desde la terminal de RStudio, es necesario primero abrir R desde la terminal de comandos del computador y ahí si seguir las instrucciones.
+> Este procedimiento no funciona desde la terminal de RStudio, es necesario primero abrir R desde la terminal de comandos del computador y ahí si seguir las instrucciones.
+{: .prompt-warning}
 
 Desde la terminal de R, vamos a escribir la siguiente línea de código para asegurarnos de que tenemos los paquetes necesarios instalados.
 

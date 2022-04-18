@@ -30,7 +30,8 @@ mi_lista2 = ['Camilo', 'Martinez', 'Ciencia', 'Datos']
 
 Como mencionaba con anterioridad, las listas están indexadas de manera numérica de conformidad con la posición de cada elemento de la lista. Esto es lo que permite acceder a los elementos de manera ordenada cuando estemos trabajando.
 
-> **Nota:**: Aquí es muy importante decir que en Python se empieza contando desde 0. Es decir, el primer elemento de una lista tendrá un índice 0, el segundo tendrá un índice 1 y así sucesivamente.
+> Es muy importante decir que en Python se empieza contando desde 0. Es decir, el primer elemento de una lista tendrá un índice 0, el segundo tendrá un índice 1 y así sucesivamente.
+{: .prompt-warning}
 
 Supongamos que quiero acceder al string `Ciencia` en `mi_lista2` del ejemplo anterior. Sabemos que `Ciencia` está en la tercera posición en la lista, lo que implica que el índice numérico que debemos usar es el 2. Entonces, para acceder a este elemento simplemente debemos escribir en python:
 

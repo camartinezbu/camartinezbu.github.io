@@ -105,7 +105,8 @@ La otra función que nos va a ayudar es `st_transform()`. Con esta función, pod
 mapa_nuevo <- sf::st_transform(mapa_base, crs = st_crs("EPSG:3116"))
 ```
 
-> Nota: esta transformación en particular genera un error al intentar dibujar el mapa. Lo importante es que sepas cómo usar la función `st_transform` en caso que lo necesites.
+> Esta transformación en particular genera un error al intentar dibujar el mapa. Lo importante es que sepas cómo usar la función `st_transform` en caso que lo necesites.
+{: .prompt-warning}
 
 ### Código para dibujar los mapas
 
