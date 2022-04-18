@@ -114,7 +114,7 @@ leaflet(data = mi_shape) %>%
 ```
 
 <div style = "height: 30em; padding: 0; display: flex; justify-content: center;" class = "htmlwidget" >
-    <iframe src="https://raw.githubusercontent.com/camartinezbu/blog-images/main/posts/2021-01-17-4-paquetes-que-debes-conocer-para-hacer-mapas-en-r/mapa_leaflet.html" style = "width: 100%; height:100%;"></iframe>
+    <iframe src="/assets/leaflet/mapa_leaflet_files/mapa_leaflet.html" style = "width: 100%; height:100%;"></iframe>
 </div>
 *Mapa de las localidades con leaflet*
 
