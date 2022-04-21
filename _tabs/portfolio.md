@@ -19,15 +19,15 @@ image: https://raw.githubusercontent.com/camartinezbu/blog-images/main/common/av
 
 ## Mis Proyectos
 
-*TBD*
+
+
+### [**#30DayChartChallenge**](https://github.com/camartinezbu/30DayChartChallenge2022)
+
+Una colección de gráficos hechos en R con los paquetes {ggplot2} y {rayshader}, en los que experimento con distintos tipos de visualizaciones, fuentes y extensiones. Con el fin de incrementar el conocimiento de numerosos temas sobre Colombia, para varios gráficos utilicé datos abiertos disponibles en las páginas web de entidades gubernamentales.
+
+*Abril-2022*
 
 <!--- 
-
-### [**Proyecto 1**](link)
-
-Descripción del proyecto 1.
-
-Fecha
 
 <hr>
 
