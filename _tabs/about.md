@@ -11,7 +11,7 @@ Soy un apasionado por la ciencia de datos y la programación.
 
 Considero que los datos son clave para entender el mundo, por lo que quiero que más personas y organizaciones puedan aplicar las herramientas de análisis que maneja esta disciplina.
 
-Estudié economía y estoy a punto de graduarme de una Maestría en la misma área. Tengo conocimientos de R, Python, Git y Github, PostgreSQL, Docker, entre otras herramientas.
+Soy economista y completé una Maestría en la misma área. Tengo conocimientos de R, Python, Git y Github, PostgreSQL, Docker, entre otras herramientas.
 
 Cuento con más de 5 años de experiencia trabajando en asuntos de política pública en Colombia. Me he desempeñado como Asesor Económico en el Consejo Gremial Nacional y como Analista de Ciudades Inteligentes y Seguridad Urbana en ProBogotá Región.
 
