@@ -19,7 +19,21 @@ image: https://raw.githubusercontent.com/camartinezbu/blog-images/main/common/av
 
 ## Mis Proyectos
 
+### [**ShakiRa**](https://github.com/camartinezbu/shakiRa)
 
+Un paquete de R que contiene paletas de colores para gráficos con {ggplot2} basados en la discografía de Shakira.
+
+*Mayo-2021*
+
+<hr>
+
+### [**Cookiecutter para proyectos de R**](https://github.com/camartinezbu/cookiecutter-r-project)
+
+Una plantilla para proyectos de ciencia de datos en R usando cookiecutter, que ahorra tiempo en la organización de carpetas y el diseño del flujo de trabajo. También creé uno para Python en el siguiente [link](https://github.com/camartinezbu/cookiecutter-python-project).
+
+*Marzo-2022*
+
+<hr>
 
 ### [**#30DayChartChallenge**](https://github.com/camartinezbu/30DayChartChallenge2022)
 
