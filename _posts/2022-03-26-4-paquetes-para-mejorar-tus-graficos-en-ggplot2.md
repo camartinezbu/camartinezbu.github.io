@@ -105,21 +105,21 @@ El paquete patchwork entra a llenar este vacío y te permite unir cuantos gráfi
 ```r
 grafico_ggrepel + grafico_ggtext
 ```
-![Ejemplo patchwork 1](/posts/2022-06-26-4-paquetes-para-mejorar-tus-graficos-en-ggplot2/patchwork1.jpg)
+![Ejemplo patchwork 1](/posts/2022-06-26-4-paquetes-para-mejorar-tus-graficos-en-ggplot2/patchwork1.jpeg)
 *Figura 3. patchwork: izquierda y derecha.*
 
 ```r
 grafico_ggrepel / grafico_ggtext
 ```
 
-![Ejemplo patchwork 2](/posts/2022-06-26-4-paquetes-para-mejorar-tus-graficos-en-ggplot2/patchwork2.jpg)
+![Ejemplo patchwork 2](/posts/2022-06-26-4-paquetes-para-mejorar-tus-graficos-en-ggplot2/patchwork2.jpeg)
 *Figura 4. patchwork: arriba y abajo.*
 
 ```r
 grafico_ggrepel / (grafico_ggtext | grid::textGrob('Este es un texto muy importante'))
 ```
 
-![Ejemplo patchwork 3](/posts/2022-06-26-4-paquetes-para-mejorar-tus-graficos-en-ggplot2/patchwork3.jpg)
+![Ejemplo patchwork 3](/posts/2022-06-26-4-paquetes-para-mejorar-tus-graficos-en-ggplot2/patchwork3.jpeg)
 *Figura 5. patchwork: formas más complejas.*
 
 ## 5. gganimate
