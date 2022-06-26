@@ -122,7 +122,7 @@ grafico_ggrepel / (grafico_ggtext | grid::textGrob('Este es un texto muy importa
 ![Ejemplo patchwork 3](/posts/2022-06-26-4-paquetes-para-mejorar-tus-graficos-en-ggplot2/patchwork3.jpeg)
 *Figura 5. patchwork: formas más complejas.*
 
-## 5. gganimate
+## 4. gganimate
 
 Usualmente pensamos en los gráficos de ggplot2 como elementos estáticos, y le dejamos visualizaciones más interesantes a herramientas como [plotly](https://plotly.com) o [d3.js](https://d3js.org). Sin embargo, muchas personas no saben que podemos generar animaciones y gifs a través del paquete gganimate, tal como si estuvieramos trabajando con facetas.
 
