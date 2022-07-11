@@ -99,6 +99,6 @@ Adicionalmente, la plantilla generará automáticamente:
 ¡Y listo! Ya puedes empezar a trabajar en tu proyecto de ciencia de datos.
 ## Conclusión
 
-Con esta explicación breve ya debes poder usar Cookiecutter y crear una carpeta de proyecto en tu computador con base en una plantilla. Te invito a buscar más plantillas en Github y experimentar con ellas para encontrar la que más se ajuste a tu flujo de trabajo. En la siguiente entrada del blog te enseñaré cómo crear tus propias plantillas y personalizar sus funcionalidades.
+Con esta explicación breve ya debes poder usar Cookiecutter y crear una carpeta de proyecto en tu computador con base en una plantilla. Te invito a buscar más plantillas en Github y experimentar con ellas para encontrar la que más se ajuste a tu flujo de trabajo. En el siguiente post aprenderás [cómo crear tus propias plantillas y personalizar sus funciones](https://www.camartinezbu.com/posts/crea-tu-propia-plantilla-en-cookiecutter/).
 
 Si te pareció útil te invito a compartir este artículo en tus redes sociales y a dejar tus comentarios al final de la página.
