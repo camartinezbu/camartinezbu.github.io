@@ -5,20 +5,22 @@ order: 4
 image: https://raw.githubusercontent.com/camartinezbu/blog-images/main/common/avatar.png
 ---
 
-<h1 style="text-align: center;"><em>¡Hola!<br>Mi nombre es <br>Camilo Martínez Burgos</em></h1>
+<h1 style="text-align: center;"><em>¡Hola!</em></h1>
 
-Soy un apasionado por la ciencia de datos y la programación.
+Me llamo Camilo Martínez Burgos. Soy un apasionado por la ciencia de datos y la programación.
 
-Considero que los datos son clave para entender el mundo, por lo que quiero que más personas y organizaciones puedan aplicar las herramientas de análisis que maneja esta disciplina.
+Considero que los datos son clave para entender el mundo. Quiero que más personas y organizaciones puedan aplicar las herramientas de análisis que maneja esta disciplina para mejorar el bienestar de todos.
 
-Soy economista y completé una Maestría en la misma área. Tengo conocimientos de R, Python, Git y Github, PostgreSQL, Docker, entre otras herramientas.
+Estudié mi pregrado en economía en la Universidad del Rosario y tengo una Maestría en Ciencias Económicas de la Universidad Nacional de Colombia. También tengo estudios complementarios en Desafíos Globales e Innovación en Políticas Públicas de Florida International University y en Liderazgo e Innovación de MIT Professional Education.
 
-Cuento con más de 5 años de experiencia trabajando en asuntos de política pública en Colombia. Me he desempeñado como Asesor Económico en el Consejo Gremial Nacional y como Analista de Ciudades Inteligentes y Seguridad Urbana en ProBogotá Región.
+Adicionalmente, tengo conocimientos de herramientas como R, Python, Git y Github, PostgreSQL, Docker, entre otras.
+
+Cuento con más de 5 años de experiencia trabajando en asuntos de análisis de políticas en Colombia. Me he desempeñado como Asesor Económico en el Consejo Gremial Nacional y como Analista de Ciudades Inteligentes y Seguridad Urbana en ProBogotá Región y actualmente me desempeño como Consultor de Innovación, Analítica de Datos y Política Pública.
 
 > Te invito a leer los [**posts**](https://www.camartinezbu.com) que he publicado y a conocer mi [**portafolio**](https://www.camartinezbu.com/portfolio/).
 {: .prompt-tip}
 
-Van los links de mis redes sociales por si quieres saludar:
+Te invito a seguirme en mis redes sociales:
 
 - [Github](https://github.com/camartinezbu)
 - [Twitter](https://twitter.com/camartinezbu)
