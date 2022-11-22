@@ -41,6 +41,14 @@ Una colección de gráficos hechos en R con los paquetes {ggplot2} y {rayshader}
 
 *Abril-2022*
 
+<hr>
+
+### [**Tidytuesday**](https://github.com/camartinezbu/tidytuesday)
+
+Una dinámica de la comunidad de R4DS que consiste en la elaboración de un gráfico semanal usando un dataset específico. Participo en el TidyTuesday para practicar y mejorar mis habilidades en {ggplot2}, así como algunas extensiones como {ggfx}, {patchwork}, {cowplot}, {ggshadowtext}, entre otras.
+
+*Septiembre-2022*
+
 <!--- 
 
 <hr>
