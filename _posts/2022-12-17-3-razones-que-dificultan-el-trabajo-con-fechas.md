@@ -6,7 +6,6 @@ tags: [fechas, datetimes, lubridate, r, python]
 image: 
   path: https://raw.githubusercontent.com/camartinezbu/blog-images/main/posts/2022-12-17-3-razones-que-dificultan-el-trabajo-con-fechas/hero.png
 excerpt: Las fechas no son tan sencillas como parecen.
-toc: true
 ---
 
 Una de las tareas más habituales en el trabajo de un científico de datos tiene que ver con el manejo de fechas. Asumiendo que tus datos ya [están ordenados](https://www.camartinezbu.com/posts/que-significa-que-los-datos-esten-ordenados/), los campos que describen fechas te van a permitir hacer agrupaciones de tus observaciones de acuerdo con periodos de tiempo específicos, encontrar patrones útiles para la toma de decisiones y ayudarte a diseñar visualizaciones de datos llamativas y fáciles de entender.
