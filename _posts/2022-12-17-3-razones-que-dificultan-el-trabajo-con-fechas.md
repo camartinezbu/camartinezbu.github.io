@@ -4,7 +4,7 @@ date: 2022-12-15 18:10:00 -0500
 categories: [Conceptos]
 tags: [fechas, datetimes, lubridate, r, python]
 image: 
-  path: https://raw.githubusercontent.com/camartinezbu/blog-images/main/posts/2022-12-17-3-razones-que-dificultan-el-trabajo-con-fechas/hero.png
+  path: /posts/2022-12-17-3-razones-que-dificultan-el-trabajo-con-fechas/hero.png
 excerpt: Las fechas no son tan sencillas como parecen.
 ---
 
