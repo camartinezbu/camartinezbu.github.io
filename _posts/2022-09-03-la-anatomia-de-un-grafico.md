@@ -1,7 +1,7 @@
 ---
 title: La anatomía de un gráfico
 date: 2022-09-03 15:35:00 -0500
-categories: [Gráficos]
+categories: [Dataviz]
 tags: [ggplot, gramática, estructura, concepto]
 image: 
   path: https://raw.githubusercontent.com/camartinezbu/blog-images/main/posts/2022-09-03-la-anatomia-de-un-grafico/hero.png

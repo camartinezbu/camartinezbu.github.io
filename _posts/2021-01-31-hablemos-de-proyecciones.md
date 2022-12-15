@@ -1,8 +1,8 @@
 ---
 title: Hablemos de proyecciones
 date: 2021-01-31 10:00:00 -0500
-categories: [Mapas, Tutorial]
-tags: [mapas, r, leaflet, sf, ggplot, tmap]
+categories: Mapas
+tags: [mapas, r, leaflet, sf, ggplot, tmap, tutorial]
 image: 
   path: https://raw.githubusercontent.com/camartinezbu/blog-images/main/posts/2021-01-31-hablemos-de-proyecciones/hero.jpg
 excerpt: ¿Te has preguntado por qué los mapas son como son?

@@ -1,7 +1,7 @@
 ---
 title: ¿Qué significa que los datos estén ordenados?
 date: 2021-02-14 14:00:00 -0500
-categories: [Datos, Conceptos]
+categories: Conceptos
 tags: [tidy, data, estructurados, reglas]
 image: 
   path: https://raw.githubusercontent.com/camartinezbu/blog-images/main/posts/2021-02-14-que-significa-que-los-datos-esten-ordenados/hero.jpg

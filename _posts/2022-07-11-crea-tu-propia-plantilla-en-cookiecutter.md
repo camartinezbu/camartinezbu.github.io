@@ -1,8 +1,8 @@
 ---
 title: Crea tu propia plantilla en Cookiecutter
 date: 2022-07-11 14:00:00 -0500
-categories: [Cookiecutter, Tutorial]
-tags: [cookiecutter, plantilla, proyecto]
+categories: Cookiecutter
+tags: [cookiecutter, plantilla, proyecto, tutorial]
 image: 
   path: https://raw.githubusercontent.com/camartinezbu/blog-images/main/posts/2022-07-11-crea-tu-propia-plantilla-en-cookiecutter/hero.jpg
 excerpt: Personaliza tus proyectos de ciencia de datos.

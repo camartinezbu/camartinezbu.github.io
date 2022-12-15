@@ -1,8 +1,8 @@
 ---
 title: Plantillas para proyectos de ciencia de datos
 date: 2022-03-20 12:30:00 -0500
-categories: [Cookiecutter, Tutorial]
-tags: [cookicutter, plantilla, ciencia-datos]
+categories: Cookiecutter
+tags: [cookicutter, plantilla, ciencia-datos, tutorial]
 image: 
   path: https://raw.githubusercontent.com/camartinezbu/blog-images/main/posts/2022-03-20-plantillas-para-proyectos-de-ciencia-de-datos/hero.jpeg
 excerpt: Te dejo dos plantillas para que puedas trabajar de inmediato.
