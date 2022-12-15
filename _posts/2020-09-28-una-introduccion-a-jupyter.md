@@ -4,7 +4,7 @@ date: 2020-09-28 16:15:00 -0500
 categories: Jupyter
 tags: [jupyter, notebook, lab, reportes, python, r, tutorial]
 image: 
-  path: https://raw.githubusercontent.com/camartinezbu/blog-images/main/posts/2020-09-28-una-introduccion-a-jupyter/hola-mundo.png
+  path: /posts/2020-09-28-una-introduccion-a-jupyter/hola-mundo.png
 excerpt: Apuesto a que no sabían que su creador es un Colombiano.
 ---
 

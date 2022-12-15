@@ -4,7 +4,7 @@ date: 2022-09-20 10:15:00 -0500
 categories: [Python]
 tags: [python, args, kwargs, concepto, tutorial]
 image: 
-  path: https://raw.githubusercontent.com/camartinezbu/blog-images/main/posts/2022-09-20-args-y-kwargs-en-python/hero.jpg
+  path: /posts/2022-09-20-args-y-kwargs-en-python/hero.jpg
 
 excerpt: Veamos cómo pasar un número arbitrario de argumentos a una función.
 ---

@@ -4,7 +4,7 @@ date: 2022-03-27 21:10:00 -0500
 categories: Terminal
 tags: [shell, bash, zsh, tutorial]
 image: 
-  path: https://raw.githubusercontent.com/camartinezbu/blog-images/main/posts/2022-03-27-la-guia-para-manipular-archivos-con-shell/hero.png
+  path: /posts/2022-03-27-la-guia-para-manipular-archivos-con-shell/hero.png
 excerpt: Crea y elimina archivos usando la línea de comandos de tu computador.
 ---
 

@@ -4,7 +4,7 @@ date: 2022-11-21 15:15:00 -0500
 categories: Jupyter
 tags: [jupyter, ecuaciones, mathjax, latex, markdown, tutorial]
 image: 
-  path: https://raw.githubusercontent.com/camartinezbu/blog-images/main/posts/2022-11-21-como-escribir-un-problema-de-optimizacion-en-jupyter/hero.png
+  path: /posts/2022-11-21-como-escribir-un-problema-de-optimizacion-en-jupyter/hero.png
 excerpt: Aprende sobre el funcionamiento de MathJax.
 math: true
 ---

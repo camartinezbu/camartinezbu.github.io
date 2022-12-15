@@ -4,7 +4,7 @@ date: 2021-02-28 11:30:00 -0500
 categories: Conceptos
 tags: [r, python, strings, regex]
 image: 
-  path: https://raw.githubusercontent.com/camartinezbu/blog-images/main/posts/2021-02-28-que-son-las-expresiones-regulares/hero.jpeg
+  path: /posts/2021-02-28-que-son-las-expresiones-regulares/hero.jpeg
 excerpt: Veamos cómo buscar patrones complejos en strings.
 ---
 

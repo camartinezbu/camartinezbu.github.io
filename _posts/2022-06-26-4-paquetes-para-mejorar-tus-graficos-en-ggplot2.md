@@ -4,7 +4,7 @@ date: 2022-06-26 15:00:00 -0500
 categories: R
 tags: [r, ggplot2, extensiones, paquetes, dataviz]
 image: 
-  path: https://raw.githubusercontent.com/camartinezbu/blog-images/main/posts/2022-06-26-4-paquetes-para-mejorar-tus-graficos-en-ggplot2/hero.png
+  path: /posts/2022-06-26-4-paquetes-para-mejorar-tus-graficos-en-ggplot2/hero.png
 excerpt: Lleva tus visuzalizaciones al siguiente nivel.
 ---
 

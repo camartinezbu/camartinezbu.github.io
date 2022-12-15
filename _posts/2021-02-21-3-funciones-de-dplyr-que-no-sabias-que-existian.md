@@ -4,7 +4,7 @@ date: 2021-02-21 10:00:00 -0500
 categories: R
 tags: [r, tidyverse, dplyr, funciones]
 image: 
-  path: https://raw.githubusercontent.com/camartinezbu/blog-images/main/posts/2021-02-21-3-funciones-de-dplyr-que-no-sabias-que-existian/hero.jpg
+  path: /posts/2021-02-21-3-funciones-de-dplyr-que-no-sabias-que-existian/hero.jpg
 excerpt: Vamos más allá de select(), filter(), mutate() y group_by()
 ---
 

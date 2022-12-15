@@ -4,7 +4,7 @@ date: 2022-09-03 15:35:00 -0500
 categories: [Dataviz]
 tags: [ggplot, gramática, estructura, concepto]
 image: 
-  path: https://raw.githubusercontent.com/camartinezbu/blog-images/main/posts/2022-09-03-la-anatomia-de-un-grafico/hero.png
+  path: /posts/2022-09-03-la-anatomia-de-un-grafico/hero.png
 
 excerpt: Hablemos de la Gramática de los Gráficos.
 ---
