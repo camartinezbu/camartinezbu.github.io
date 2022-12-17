@@ -58,8 +58,6 @@ Supón que estás creando un evento en tu calendario que debería repetirse en u
 
 ![Ejemplo espacios irregulares de tiempoi](/posts/2022-12-17-3-razones-que-dificultan-el-trabajo-con-fechas/Figura1.png)
 
-/posts/2022-12-17-3-razones-que-dificultan-el-trabajo-con-fechas
-
 Cambiemos un poco la ejemplo: ahora el evento se debería repetir cada 30 días. Siguiendo la instrucción, lo que deberías hacer es navegar en tu calendario contando los días a partir del día inicial y cuando llegues al día 30, marcarías la siguiente ocurrencia del evento. Es un poco más complejo, pero nada que no pudieras hacer a mano.
 
 ![Ejemplo espacios regulares de tiempo](/posts/2022-12-17-3-razones-que-dificultan-el-trabajo-con-fechas/Figura2.png)
