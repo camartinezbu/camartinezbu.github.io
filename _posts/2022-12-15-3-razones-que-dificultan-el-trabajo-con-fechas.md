@@ -4,7 +4,7 @@ date: 2022-12-15 18:10:00 -0500
 categories: [Conceptos]
 tags: [fechas, datetimes, lubridate, r, python]
 image: 
-  path: /posts/2022-12-17-3-razones-que-dificultan-el-trabajo-con-fechas/hero.png
+  path: /posts/2022-12-15-3-razones-que-dificultan-el-trabajo-con-fechas/hero.png
 excerpt: Las fechas no son tan sencillas como parecen.
 ---
 
@@ -56,11 +56,11 @@ Esto sin contar las modificaciones especiales a la hora, como el [Horario de Ver
 
 Supón que estás creando un evento en tu calendario que debería repetirse en un día específico de cada mes; digamos que el quinto día. Muy probablemente, lo que harías es ir a tu calendario y marcar el 5 de octubre, el 5 de noviembre, el 5 de diciembre y así sucesivamente. Fácil, ¿verdad?
 
-![Ejemplo espacios irregulares de tiempoi](/posts/2022-12-17-3-razones-que-dificultan-el-trabajo-con-fechas/Figura1.png)
+![Ejemplo espacios irregulares de tiempoi](/posts/2022-12-15-3-razones-que-dificultan-el-trabajo-con-fechas/Figura1.png)
 
 Cambiemos un poco la ejemplo: ahora el evento se debería repetir cada 30 días. Siguiendo la instrucción, lo que deberías hacer es navegar en tu calendario contando los días a partir del día inicial y cuando llegues al día 30, marcarías la siguiente ocurrencia del evento. Es un poco más complejo, pero nada que no pudieras hacer a mano.
 
-![Ejemplo espacios regulares de tiempo](/posts/2022-12-17-3-razones-que-dificultan-el-trabajo-con-fechas/Figura2.png)
+![Ejemplo espacios regulares de tiempo](/posts/2022-12-15-3-razones-que-dificultan-el-trabajo-con-fechas/Figura2.png)
 
 Sin embargo, lo que estos ejemplos quieren ilustrar es que no hay una única manera de hacer aritmética con fechas y horas. En el primer caso, estamos tomando una interpretación cotidiana de las fechas, que tiene espacios de tiempo irregulares. Siguiendo el ejemplo, algunas veces vamos a tener 30 días entre los eventos y otras 31. En el segundo caso, estamos tomando una interpretación un poco más precisa, pero que no corresponde con nuestro día a día. Muy probablemente, a partir del siguiente mes el número del día no coincida.
 
