@@ -10,7 +10,7 @@ excerpt: Las fechas no son tan sencillas como parecen.
 
 Una de las tareas más habituales en el trabajo de un científico de datos tiene que ver con el manejo de fechas. Asumiendo que tus datos ya [están ordenados](https://www.camartinezbu.com/posts/que-significa-que-los-datos-esten-ordenados/), los campos que describen fechas te van a permitir hacer agrupaciones de tus observaciones de acuerdo con periodos de tiempo específicos, encontrar patrones útiles para la toma de decisiones y ayudarte a diseñar visualizaciones de datos llamativas y fáciles de entender.
 
-Sin embargo, el trabajo con fechas no es tan evidente. En este post quiero hablar de por qué es complejo trabajar con fechas y en unas entradas posteriores te enseñaré a trabajar con fechas en R y Python.
+Sin embargo, el trabajo con fechas no es tan evidente. En este post quiero hablar sobre por qué es complejo trabajar con fechas y al final encontrarás el enlace para aprender a usar `lubridate` en R.
 
 ## 1. Formato de escritura
 
@@ -66,6 +66,10 @@ Sin embargo, lo que estos ejemplos quieren ilustrar es que no hay una única man
 
 ## Conclusión
 
-Como te puedes dar cuenta, en contra de lo que podría parecer a simple vista, la representación de una fecha no es algo trivial. Afortunadamente, lenguajes de programación como R y Python contienen paquetes que te permiten lidiar con todos estos aspectos fácilmente. En los proximos días voy a publicar 3 tutoriales para que aprendas a trabajar con fechas usando `lubridate` en R, y `datetime` y `pandas` en Python.
+Como te puedes dar cuenta, en contra de lo que podría parecer a simple vista, la representación de una fecha no es algo trivial. Afortunadamente, lenguajes de programación como R y Python contienen paquetes que te permiten lidiar con todos estos aspectos fácilmente.
+
+Si quieres aprender a trabajar con `lubridate` en R, te invito a que leas [este post](https://www.camartinezbu.com/posts/como-trabajar-con-fechas-en-r/) que escribí.
+
+En los proximos días voy a publicar los tutoriales correspondientes para que aprendas a trabajar con fechas usando `datetime` y `pandas` en Python.
 
 Si te pareció útil, déjame un comentario abajo o comparte este post en tus redes. ¡Éxitos en tu aprendizaje!
