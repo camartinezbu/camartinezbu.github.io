@@ -2,7 +2,7 @@
 title: Portafolio
 icon: fas fa-briefcase
 order: 5
-image: https://raw.githubusercontent.com/camartinezbu/blog-images/main/common/avatar.png
+image: /common/avatar.png
 ---
 
 <h1 style="text-align: center;"><em>Como científico de datos, mi trabajo es transformar datos crudos en información útil para la toma de decisiones</em></h1>

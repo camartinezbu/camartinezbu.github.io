@@ -2,7 +2,7 @@
 title: Sobre mí
 icon: fas fa-info-circle
 order: 4
-image: https://raw.githubusercontent.com/camartinezbu/blog-images/main/common/avatar.png
+image: /common/avatar.png
 ---
 
 <h1 style="text-align: center;"><em>¡Hola!</em></h1>
