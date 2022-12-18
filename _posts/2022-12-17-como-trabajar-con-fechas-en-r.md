@@ -27,6 +27,7 @@ mi_fecha <- as.Date("2022-12-10")
 Ahora bien, si además tienes información del momento preciso –horas, minutos y segundos–, R va a trabajar con el tipo de dato `POSIXct`. Este consiste en un conteo de segundos desde el 1 de enero de 1970 a media noche.
 
 > R no cuenta con una clase nativa que guarde únicamente horas, minutos y segundos. El paquete [hms](https://www.rdocumentation.org/packages/hms/versions/1.1.2) incluye la clase `hms` que habilita esta funcionalidad.
+{: .prompt-tip }
 
 Para leer una fecha de este estilo desde un `character`, puedes usar la función `as.POSIXct()` así:
 
@@ -35,6 +36,7 @@ mi_fecha_hora <- as.POSIXct("2022-12-10 19:30:00")
 ```
 
 > El formato en el que están escritas la fechas anteriores se conoce como [ISO 8601](https://es.wikipedia.org/wiki/ISO_8601). En este estándar se escriben las fechas de la mayor unidad a la menor unidad: Año antes que mes, mes antes que día, y así sucesivamente. De esta manera, se elimina la ambigüedad a la hora de interpretar a qué unidad pertenece cada número.
+{: .prompt-info }
 
 ## Lubridate
 
@@ -83,6 +85,7 @@ mi_fecha_hora3 <- dmy_h("10:12:2022 19")
 ```
 
 > También puedes cargar una fecha que aparezca como una combinación entre año y trimestre (p.e. `"2022:4"`) usando la función `yq()`.
+{: .prompt-tip }
 
 ### Unidades de tiempo
 
@@ -129,6 +132,7 @@ wday(mi_fecha_hora, week_start = 1)
 ```
 
 > En la función `wday()` es necesario poner el argumento `week_start = 1` para que el lunes sea el primer día de la semana –y no el domingo, que es la función por defecto–. Esto hace que el valor que devuelve la función sea 6, dado que la fecha del ejemplo es un sábado. Si no lo haces, la función te devuelve el 7, ya que es el séptimo día de la semana si comienzas a contar desde el domingo.
+{: .prompt-tip }
 
 Hasta el momento, todos los campos de fecha que hemos revisado se devuelven como un `integer`. Sin embargo, también puedes hacer que la función `month()` devuelva el nombre del mes o `wday()` el nombre del día. Hay dos argumentos que intervienen en esta operación: el primero es `label`, que le indica a `lubridate` que debe imprimir un nombre y no un número, y el segundo es `abbr`, que define si quieres una representación larga o corta del nombre. Veamos.
 
@@ -145,6 +149,7 @@ month(mi_fecha_hora, label = TRUE, abbr = TRUE)
 ```
 
 > Dependiendo de la configuración de idioma de tu computador, así como el sistema operativo que estés usando, puede que la función te devuelva el nombre del mes o del día en otro idioma. Para forzar un idioma de salida de la función, debes usar el argumento `locale` con un código de idioma y país. Para español puedes usar `"es_ES"`.
+{: .prompt-tip }
 
 ### Zonas horarias
 
@@ -167,6 +172,7 @@ mi_fecha_hora_tok <- ymd_hms("2022-12-10 19:30:00", tz = "Asia/Tokyo")
 ```
 
 > Por defecto, la zona horaria que se incluye en las fechas es `UTC`, el[Tiempo Universal Coordinado](https://en.wikipedia.org/wiki/Coordinated_Universal_Time), que para efectos prácticos corresponde al tiempo del Meridiano de Greenwich.
+{: .prompt-info }
 
 - Cambiar una fecha de una zona horaria a otra: La función `with_tz()` permite cambiar una fecha de una zona horaria a otra en horario local. Esta función tiene dos argumentos principales: la fecha que queremos convertir y la zona horaria objetivo.
 

@@ -41,7 +41,7 @@ Si permitimos que los elementos de la fecha estén escritos como palabras, el un
 - `Octubre 5 2022`
 
 > A este último caso le podemos añadir una complejidad adicional. Dado que las fechas están escritas en lenguaje natural, también te puedes encontrar con fechas en otros idiomas: `5th October 5, 2022`,  `Octobre 5 2022`, u `Outubro 5, 2022`.
-> {: .prompt-info }
+{: .prompt-info }
 
 ## 2. Zonas horarias
 
