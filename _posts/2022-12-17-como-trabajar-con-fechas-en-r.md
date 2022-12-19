@@ -1,7 +1,7 @@
 ---
 title: ¿Cómo trabajar con fechas en R?
 date: 2022-12-17 10:10:00 -0500
-categories: [Conceptos]
+categories: [R]
 tags: [fechas, datetimes, lubridate, r]
 image: 
   path: /posts/2022-12-17-como-trabajar-con-fechas-en-r/hero.png
