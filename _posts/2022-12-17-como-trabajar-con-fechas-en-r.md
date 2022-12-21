@@ -10,7 +10,7 @@ excerpt: Aprende a usar lubridate.
 
 Saber trabajar correctamente con fechas es una herramienta fundamental para cualquier científico de datos, ya que es muy común encontrarse con columnas de este tipo en los *datasets*. Sin embargo, como lo explico en [esta publicación](https://www.camartinezbu.com/posts/3-razones-que-dificultan-el-trabajo-con-fechas/), no es algo trivial dadas algunas complejidades propias de las fechas.
 
-Al final de este post, sabrás como leer, manipular y hacer aritmética con fechas usando el paquete [lubridate](https://lubridate.tidyverse.org/index.html). Si te interesa aprender a trabajar con fechas en Python base, en los próximos días subiré un par de tutoriales sobre `datetime` y `pandas`.
+Al final de este post, sabrás como leer, manipular y hacer aritmética con fechas usando el paquete [lubridate](https://lubridate.tidyverse.org/index.html). Si te interesa aprender a trabajar con fechas en Python, te invito s leer los posts correspondientes a [`datetime`](https://www.camartinezbu.com/posts/como-trabajar-con-fechas-en-python/) y [`pandas`](https://www.camartinezbu.com/posts/como-trabajar-con-fechas-en-pandas/).
 
 ## Tipos de datos primitivos en R
 

@@ -8,9 +8,9 @@ image:
 excerpt: Aprende a usar datetime.
 ---
 
-Saber trabajar correctamente con fechas es una herramienta fundamental para cualquier científico de datos, ya que es muy común encontrarse con columnas de este tipo en los *datasets*. Sin embargo, como lo explico en [esta publicación](https://www.camartinezbu.com/posts/3-razones-que-dificultan-el-trabajo-con-fechas/), no es algo trivial dadas algunas complejidades propias de las fechas.
+En una [publicación anterior](https://www.camartinezbu.com/posts/3-razones-que-dificultan-el-trabajo-con-fechas/) te hablé sobre las dificultades que te puedes encontrar cuando trabajes con fechas en tus proyectos de ciencia de datos. Para que puedas resolverlas, estoy escribiendo una serie de turoriales para que aprendas a trabajar con algunas de las herramientas más poderosas.
 
-Al final de este post, sabrás como leer, manipular y hacer aritmética con fechas usando [datetime](https://docs.python.org/3/library/datetime.html). Si te interesa aprender a trabajar con fechas en R, te invito a leer [esta publicación](https://www.camartinezbu.com/posts/como-trabajar-con-fechas-en-r/).
+Al final de este post, sabrás como leer, manipular y hacer aritmética con fechas usando [datetime](https://docs.python.org/3/library/datetime.html). Si buscas un tutorial de `pandas`, te lo dejo en [este enlace](https://www.camartinezbu.com/posts/como-trabajar-con-fechas-en-pandas/). Si te interesa aprender a trabajar con fechas en R, te invito a leer [esta publicación](https://www.camartinezbu.com/posts/como-trabajar-con-fechas-en-r/).
 
 ## datetime
 
@@ -258,6 +258,6 @@ A la función también se le pueden pasar argumentos como milisegundos, minutos,
 
 ## Conclusiones
 
-¡Felicidades, ya sabes usar `datetime`! Con las herramientas que aprendiste en este blog podrás desarrollar un gran número de tareas relacionadas con fechas. Como recurso adicional, te dejo este post donde aprenderás a [trabajar con fechas en R](https://www.camartinezbu.com/posts/como-trabajar-con-fechas-en-r/).
+¡Felicidades, ya sabes usar `datetime`! Con las herramientas que aprendiste en este blog podrás desarrollar un gran número de tareas relacionadas con fechas. Como recurso adicional, te dejo estos posts donde aprenderás a [trabajar con fechas en R](https://www.camartinezbu.com/posts/como-trabajar-con-fechas-en-r/) y [en pandas](https://www.camartinezbu.com/posts/como-trabajar-con-fechas-en-pandas/)
 
 Te invito a dejar un comentario abajo si tienes algún truco sobre el manejo de `datetime` y, si te pareció útil este post, a compartirlo en tus redes sociales.
