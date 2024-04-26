@@ -17,6 +17,8 @@ buildFuture = false
 
 # googleAnalytics = "G-XXXXXXXXX"
 
+timeout = 150
+
 [imaging]
   anchor = 'Center'
 
