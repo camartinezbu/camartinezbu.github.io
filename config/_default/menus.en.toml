@@ -15,10 +15,10 @@
 #pageRef = "posts"
 #weight = 10
 
-#[[main]]
-#name = "Portfolio"
-#pageRef = "portfolio"
-#weight = 15
+[[main]]
+  name = "Portfolio"
+  pageRef = "portfolio"
+  weight = 15
 
 [[main]]
   name = "About"
