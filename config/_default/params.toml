@@ -18,7 +18,7 @@ enableCodeCopy = false
 disableImageOptimization = false
 disableTextInHeader = false
 
-# defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
+# defaultBackgroundImage = "IMAGE.jpg" # used as default for background images
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
@@ -38,11 +38,11 @@ disableTextInHeader = false
 [homepage]
   layout = "profile" # valid options: page, profile, hero, card, background, custom
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
-  showRecent = false
+  showRecent = true
   showRecentItems = 5
-  showMoreLink = false
+  showMoreLink = true
   showMoreLinkDest = "/posts"
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
 
@@ -54,12 +54,12 @@ disableTextInHeader = false
   showDateUpdated = false
   showAuthor = true
   # showAuthorBottom = false
-  showHero = false
-  # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  # showHero = true
+  heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
-  showDraftLabel = true
+  showDraftLabel = false
   showEdit = false
   # editURL = "https://github.com/username/repo/"
   editAppendPath = true
@@ -68,13 +68,13 @@ disableTextInHeader = false
   showPagination = true
   invertPagination = false
   showReadingTime = true
-  showTableOfContents = false
-  # showRelatedContent = false
-  # relatedContentLimit = 3
+  showTableOfContents = true
+  showRelatedContent = true
+  relatedContentLimit = 3
   showTaxonomies = false
   showAuthorsBadges = false
-  showWordCount = true
-  # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
+  showWordCount = false
+  sharingLinks = ["linkedin", "twitter", "facebook", "email", "whatsapp"]
   showZenMode = false
 
 [list]
@@ -97,7 +97,7 @@ disableTextInHeader = false
   excludedKinds = ["taxonomy", "term"]
 
 [taxonomy]
-  showTermCount = true
+  showTermCount = false
   showHero = false
   # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
