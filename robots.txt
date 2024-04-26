@@ -1,5 +1,3 @@
 User-agent: *
-
-Disallow: /norobots/
-
-Sitemap: http://www.camartinezbu.com//sitemap.xml
+Allow: /
+Sitemap: /sitemap.xml
