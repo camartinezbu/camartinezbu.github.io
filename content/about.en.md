@@ -19,7 +19,7 @@ I studied my undergraduate degree in economics at the Universidad del Rosario an
 
 Additionally, I have knowledge of tools such as R, Python, Git and Github, PostgreSQL, Docker, among others.
 
-I have more than 6 years of experience working on policy analysis issues in Colombia. I have served as an Economic Advisor at the National Trade Council and as a Smart Cities and Urban Security Analyst at ProBogotá Region and I currently work as an Innovation, Data Analytics and Public Policy Consultant.
+I have more than 7 years of experience working on policy analysis issues in Colombia. I have served as an Economic Advisor at the National Trade Council and as a Smart Cities and Urban Security Analyst at ProBogotá Region and I currently work as an Innovation, Data Analytics and Public Policy Consultant.
 
 You can also find me on:
 - {{< icon github >}} [Github](https://github.com/camartinezbu)

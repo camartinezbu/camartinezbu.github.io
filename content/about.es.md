@@ -19,7 +19,7 @@ Estudié mi pregrado en economía en la Universidad del Rosario y tengo una Maes
 
 Adicionalmente, tengo conocimientos de herramientas como R, Python, Git y Github, PostgreSQL, Docker, entre otras.
 
-Cuento con más de 6 años de experiencia trabajando en asuntos de análisis de políticas en Colombia. Me he desempeñado como Asesor Económico en el Consejo Gremial Nacional y como Analista de Ciudades Inteligentes y Seguridad Urbana en ProBogotá Región y actualmente me desempeño como Consultor de Innovación, Analítica de Datos y Política Pública.
+Cuento con más de 7 años de experiencia trabajando en asuntos de análisis de políticas en Colombia. Me he desempeñado como Asesor Económico en el Consejo Gremial Nacional y como Analista de Ciudades Inteligentes y Seguridad Urbana en ProBogotá Región y actualmente me desempeño como Consultor de Innovación, Analítica de Datos y Política Pública.
 
 Si quieres conocer mi presencia en otras redes, puedes encontrarme en:
 - {{< icon github >}} [Github](https://github.com/camartinezbu)
