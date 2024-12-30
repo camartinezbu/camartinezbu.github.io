@@ -6,7 +6,7 @@ tags: [paquetes, programación]
 excerpt: Ahora tengo una nueva apreciación por la programación.
 ---
 
-Mucho se suele escribir sobre cómo hacer cosas, pero no tanto frente a por qué hacerlo. Yo mismo he escrito varios tutoriales para [crear dashboards con shiny](), [trabajar con fechas en R]() y [python](), [mejorar los gráficos con ggplot2](), entre otros. Pero hoy quiero escribir algo diferente y hacerte una invitación para que escribas tu propio paquete en el lenguaje de programación que uses.
+Mucho se suele escribir sobre cómo hacer cosas, pero no tanto frente a por qué hacerlo. Yo mismo he escrito varios tutoriales para [crear dashboards con shiny](https://www.camartinezbu.com/posts/como-hacer-un-dashboard-en-r/), [trabajar con fechas en R](https://www.camartinezbu.com/posts/como-trabajar-con-fechas-en-r/) y [python](https://www.camartinezbu.com/posts/como-trabajar-con-fechas-en-python/), [mejorar los gráficos con ggplot2](https://www.camartinezbu.com/posts/4-paquetes-para-mejorar-tus-graficos-en-ggplot2/), entre otros. Pero hoy quiero escribir algo diferente y hacerte una invitación para que escribas tu propio paquete en el lenguaje de programación que uses.
 
 Desde la última vez que escribí por acá he crecido un montón como desarrollador. He aprendido más sobre mis herramientas de trabajo, he experimentado con la configuración de mi entorno de trabajo de programación y me he acercado a otros lenguajes de programación como Go.
 
