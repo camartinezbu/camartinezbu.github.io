@@ -15,7 +15,7 @@ En vez de facilitarme la vida, estaba haciendo el mismo esfuerzo una y otra vez.
 
 Después de acumular suficiente frustración, decidí de una vez por todas aprender sobre la creación de paquetes en R. El punto de partida fue el libro de [R Packages](ihttps://r-pkgs.org) de Hadley Wickham –por supuesto– y Jennifer Bryan. Es un recurso maravilloso y lo recomiendo un montón por si tienen una frustración como la mía.
 
-Más allá de las respuestas obvias –organizar mejor el código y facilitar los productos que tengo que armar–, me dí cuenta de una dimensión completamente nueva del lenguaje de programación, que creo que va a ayudarme a crear código más legible y que se rompa menos a menudo.
+Más allá de las respuestas obvias –organizar mejor el código y facilitar los productos que tengo que armar–, escribir un paquete me ha dado heramientas que me van a ayudar a crear código más legible y que se rompa menos a menudo.
 
 Para el caso puntual de paquetes en R, he tenido que aprender desde trucos para lidiar con avisos y notas como resultado del `R CMD check` por la evaluación no estándar que suele usar el Tidyverse, el uso de [`roxygen`](https://roxygen2.r-lib.org) para documentar funciones y datos, la implementación de _assertions_ con el paquete [`assertthat`](https://github.com/hadley/assertthat), la creación de pruebas unitarias para funciones de la mano de [`testthat`](https://testthat.r-lib.org), entre muchas otras cosas.
 
