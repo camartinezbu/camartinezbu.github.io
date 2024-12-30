@@ -13,7 +13,7 @@ title = "camartinezbu.com"
   description = "Mi blog sobre ciencia de datos y programación"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-[author]
+[params.author]
   name = "Camilo Martínez Burgos"
   image = "img/avatar_square_small.png"
   headline = "Economista y científico de datos"
