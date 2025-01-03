@@ -1,28 +1,20 @@
 ---
 title: "Sobre mí"
 showDate: false
-showAuthor: false
 showReadingTime: false
 showWordCount: false
+sharingLinks: false
 ---
 
 
 {{< lead >}}
-Me llamo Camilo Martínez Burgos :man_technologist:
+Soy un apasionado por la ciencia de datos y la programación.
 {{< /lead >}}
 
-Soy un apasionado por la ciencia de datos y la programación.
+Soy economista de la Universidad del Rosario, con maestría en Ciencias económicas de la Universidad Nacional de Colombia. Me dedico a entender asuntos de política pública y economía aplicada a partir del uso de la ciencia de datos.
 
-Considero que los datos son clave para entender el mundo. Quiero que más personas y organizaciones puedan aplicar las herramientas de análisis que maneja esta disciplina para mejorar el bienestar de todos.
+Tengo conocimientos en lenguajes de programación como R y Python, así como en herramientas como Git, SQL, Docker, entre otras.
 
-Estudié mi pregrado en economía en la Universidad del Rosario y tengo una Maestría en Ciencias Económicas de la Universidad Nacional de Colombia. También tengo estudios complementarios en Desafíos Globales e Innovación en Políticas Públicas de Florida International University y en Liderazgo e Innovación de MIT Professional Education.
+He trabajado en organizaciones como el  Consejo Gremial Nacional, Probogotá Región, el Laboratorio de Ciudad de la Secretaría Distrital de Planeación en Bogotá y [Datacamp](https://www.datacamp.com/courses/data-storytelling-case-study-green-businesses). También fui profesor asistente del curso de Métodos Computacionales para Políticas Públicas en la Universidad del Rosario. Actualmente soy Consultor de Innovación, Analítica de Datos y Política Pública y Contratista de la Secretaría Distrital de Seguridad, Convivencia y Justicia.
 
-Adicionalmente, tengo conocimientos de herramientas como R, Python, Git y Github, PostgreSQL, Docker, entre otras.
-
-Cuento con más de 7 años de experiencia trabajando en asuntos de análisis de políticas en Colombia. Me he desempeñado como Asesor Económico en el Consejo Gremial Nacional y como Analista de Ciudades Inteligentes y Seguridad Urbana en ProBogotá Región y actualmente me desempeño como Consultor de Innovación, Analítica de Datos y Política Pública.
-
-Si quieres conocer mi presencia en otras redes, puedes encontrarme en:
-- {{< icon github >}} [Github](https://github.com/camartinezbu)
-- {{< icon linkedin >}} [LinkedIn](https://www.linkedin.com/in/camartinezbu/)
-- {{< icon mastodon >}} [Mastodon](https://fosstodon.org/@camartinezbu)
-- {{< icon x-twitter >}} [X/Twitter](https://twitter.com/home)
+Si me quieres contactar, lo puedes hacer a través de Twitter/X ([@camartinezbu](https://x.com/camartinezbu)), en [Linkedin](https://www.linkedin.com/in/camartinezbu/) o por [correo electrónico](mailto:camartinezbu.contacto@gmail.com).

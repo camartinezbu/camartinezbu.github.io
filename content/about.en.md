@@ -1,28 +1,20 @@
 ---
-title: "Who am I?"
+title: "About me"
 showDate: false
-showAuthor: false
+showAuthor: true
 showReadingTime: false
 showWordCount: false
 ---
 
 
 {{< lead >}}
-My name is Camilo Marrtínez  Burgos :man_technologist:
+I am passionate about data science and programming.
 {{< /lead >}}
 
-I am passionate about data science and programming.
+I'm an economist from Universidad del Rosario and I have a Master's degree in Economic Sciences from the National University of Colombia. I work at the intersection between public policy, applied economics and data science.
 
-I believe that data is key to understanding the world. I want more people and organizations to be able to apply the analysis tools used by this discipline to improve the well-being of everyone.
+I am proficient at programming languages like R and Python, as well as tools like Git, SQL, Docker, among others.
 
-I studied my undergraduate degree in economics at the Universidad del Rosario and I have a Master's degree in Economic Sciences from the National University of Colombia. I also have complementary studies in Global Challenges and Innovation in Public Policy from Florida International University and in Leadership and Innovation from MIT Professional Education.
+I have worked at organizations like the National Business Council, Probogotá Región, the CityLab at Bogota's District Department of Planning and [Datacamp](https://www.datacamp.com/courses/data-storytelling-case-study-green-businesses). I was also assistant professor of Computational Methods for Public Policy at Universidad del Rosario. I currently work as Consultant of Innovation, Data Analysis and Public Polilcy, as well as Contractor at the District Deparment of Security, Peaceful Coexistence and Justice.
 
-Additionally, I have knowledge of tools such as R, Python, Git and Github, PostgreSQL, Docker, among others.
-
-I have more than 7 years of experience working on policy analysis issues in Colombia. I have served as an Economic Advisor at the National Trade Council and as a Smart Cities and Urban Security Analyst at ProBogotá Region and I currently work as an Innovation, Data Analytics and Public Policy Consultant.
-
-You can also find me on:
-- {{< icon github >}} [Github](https://github.com/camartinezbu)
-- {{< icon linkedin >}} [LinkedIn](https://www.linkedin.com/in/camartinezbu/)
-- {{< icon mastodon >}} [Mastodon](https://fosstodon.org/@camartinezbu)
-- {{< icon x-twitter >}} [X/Twitter](https://twitter.com/home)
+You can reach me by Twitter/X ([@camartinezbu](https://x.com/camartinezbu)), [Linkedin](https://www.linkedin.com/in/camartinezbu/) or [e-mail](mailto:camartinezbu.contacto@gmail.com).
