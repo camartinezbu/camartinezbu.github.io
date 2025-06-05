@@ -10,7 +10,7 @@ cascade:
 ---
 
 {{< lead >}}
-Conoce los artículos que he escrito en español :face_with_monocle:
+Conoce los artículos que he escrito en español
 {{< /lead >}}
 
 <!---
