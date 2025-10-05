@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pandas on Camilo Martínez Burgos</title><link>https://www.camartinezbu.com/tags/pandas/</link><description>Recent content in Pandas on Camilo Martínez Burgos</description><generator>Hugo -- gohugo.io</generator><language>es</language><copyright>© 2025 Camilo Martínez Burgos</copyright><lastBuildDate>Wed, 21 Dec 2022 16:50:00 -0500</lastBuildDate><atom:link href="https://www.camartinezbu.com/tags/pandas/index.xml" rel="self" type="application/rss+xml"/><item><title>¿Cómo trabajar con fechas en Pandas?</title><link>https://www.camartinezbu.com/posts/como-trabajar-con-fechas-en-pandas/</link><pubDate>Wed, 21 Dec 2022 16:50:00 -0500</pubDate><guid>https://www.camartinezbu.com/posts/como-trabajar-con-fechas-en-pandas/</guid><description>&lt;p&gt;El trabajo con fechas tiene &lt;a
-href="https://www.camartinezbu.com/posts/3-razones-que-dificultan-el-trabajo-con-fechas/"
-target="_blank"
-&gt;numerosas complejidades&lt;/a&gt;, entre las que se cuentan el formato de escritura de las fechas, las zonas horarias y las diferentes formas de hablar de duraciones de tiempo.&lt;/p&gt;
-&lt;p&gt;En este post quiero explicarte cómo leer, manipular y hacer aritmética con fechas usando &lt;a
-href="https://pandas.pydata.org/docs/getting_started/index.html"
-target="_blank"
-&gt;pandas&lt;/a&gt;. Si buscas un tutorial para el módulo &lt;code&gt;datetime&lt;/code&gt;, dirígete a &lt;a
-href="https://www.camartinezbu.com/posts/como-trabajar-con-fechas-en-python/"
-target="_blank"
-&gt;este enlace&lt;/a&gt;. Si te interesa aprender a trabajar con fechas en R, te invito a leer &lt;a
-href="https://www.camartinezbu.com/posts/como-trabajar-con-fechas-en-r/"
-target="_blank"
-&gt;esta publicación&lt;/a&gt;.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.camartinezbu.com/posts/como-trabajar-con-fechas-en-pandas/featured.png"/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pandas on Camilo Martínez Burgos</title><link>https://www.camartinezbu.com/tags/pandas/</link><description>Recent content in Pandas on Camilo Martínez Burgos</description><generator>Hugo -- gohugo.io</generator><language>es</language><copyright>© 2025 Camilo Martínez Burgos</copyright><lastBuildDate>Wed, 21 Dec 2022 16:50:00 -0500</lastBuildDate><atom:link href="https://www.camartinezbu.com/tags/pandas/index.xml" rel="self" type="application/rss+xml"/><item><title>¿Cómo trabajar con fechas en Pandas?</title><link>https://www.camartinezbu.com/posts/como-trabajar-con-fechas-en-pandas/</link><pubDate>Wed, 21 Dec 2022 16:50:00 -0500</pubDate><guid>https://www.camartinezbu.com/posts/como-trabajar-con-fechas-en-pandas/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.camartinezbu.com/posts/como-trabajar-con-fechas-en-pandas/featured.png"/></item></channel></rss>
