@@ -5,14 +5,11 @@
 theme = "blowfish" # UNCOMMENT THIS LINE
 baseURL = "https://www.camartinezbu.com/"
 defaultContentLanguage = "es"
+disable_languages = []
 
 pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = false
-
-[pagination]
-  pagerSize = 10
-
 summaryLength = 0
 
 buildDrafts = false
@@ -21,6 +18,9 @@ buildFuture = false
 googleAnalytics = "G-77VL6HZ7DQ"
 
 timeout = 150
+
+[pagination]
+  pagerSize = 10
 
 [imaging]
   anchor = 'Center'
